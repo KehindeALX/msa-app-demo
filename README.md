@@ -20,11 +20,11 @@ Branch: main / root
 Click Save
 Step 4 — Your live URL
 After ~2 minutes:
-https://YOUR-USERNAME.github.io/msa-app-demo/ 
+https://https://github.com/KehindeALX/msa-app-demo/ 
 Embed on moresuccessacademy.com.ng
 Add this HTML snippet to any page on your website:
 <!-- MSA App Demo Embed -->
-<iframe   src="https://YOUR-USERNAME.github.io/msa-app-demo/"
+<iframe   src="https:/https://github.com/KehindeALXmsa-app-demo/"
   width="100%"
   height="800px"
   frameborder="0"
